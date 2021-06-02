@@ -14,6 +14,3 @@ Desafio de criação da tela inicial da Netflix - Digital Innovation One (DIO)
 
 ![clone Netflix](https://user-images.githubusercontent.com/82722083/120560095-8a905880-c3d8-11eb-975d-57244201c552.gif)
 
----
-![image](https://user-images.githubusercontent.com/82722083/120561923-d1338200-c3db-11eb-9a3f-d18b25da2ad4.png)
-
