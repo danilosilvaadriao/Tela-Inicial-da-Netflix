@@ -1,6 +1,6 @@
 # Tela Inicial da Netflix
 
-
+<a href="https://danilosilvaadriao.github.io/Tela-Inicial-da-Netflix/"><h2>Clique aqui para testar o projeto</h2></a>
 
 Desafio de criação da tela inicial da Netflix proposto em um curso da Digital Innovation One (DIO)
 
