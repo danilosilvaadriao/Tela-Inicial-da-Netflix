@@ -15,7 +15,7 @@ Os links estão clicáveis, mas não redirecionam para nenhuma página.
   - [CSS3](https://www.w3.org/TR/css3-roadmap/)
   - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   
-  # IDE de Desenvolvimento
+  ## IDE de Desenvolvimento
   - [Visual Studio Code](https://code.visualstudio.com/)
   
   ---
